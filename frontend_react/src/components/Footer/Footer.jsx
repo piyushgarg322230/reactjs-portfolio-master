@@ -104,7 +104,7 @@ const Footer = () => {
           variants={childCopyVariant}
           whileInView="view"
         >
-          &copy; 2022 Praveen
+          &copy; 2026 Piyush Garg
         </motion.p>
         <motion.p
           className="p-text"

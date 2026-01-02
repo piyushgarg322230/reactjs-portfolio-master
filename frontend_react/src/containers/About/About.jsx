@@ -17,12 +17,6 @@ const About = () => {
      description,
      "resumeUrl": resume.asset -> url 
     }`;
-    client.fetch(aboutsQuery).then((data) => {
-      setAbouts(data);
-    });
-    client.fetch(aboutMeQuery).then((data) => {
-      setAboutMe(data);
-    });
 
     Promise.all([client.fetch(aboutsQuery), client.fetch(aboutMeQuery)])
       .then(([aboutsData, aboutMeData]) => {
@@ -33,7 +27,6 @@ const About = () => {
   }, []);
 
   const viewResumeHandler = () => {
-    window.open(aboutMe.resumeUrl, "_blank");
     if (aboutMe?.resumeUrl) {
       window.open(aboutMe.resumeUrl, "_blank");
     }
@@ -51,11 +44,6 @@ const About = () => {
         <div className="app__about-img app__flex">
           <div className="app__flex">
             <img
-              src={
-                aboutMe.profileImg
-                  ? urlFor(aboutMe.profileImg)
-                  : images.aboutmine
-              }
               src={aboutMe?.profileImg ? urlFor(aboutMe.profileImg) : images.aboutmine}
               alt="Profile"
             />
@@ -65,7 +53,6 @@ const About = () => {
           <h2 className="head-text">About Me</h2>
           <p
             className="p-text"
-            dangerouslySetInnerHTML={{ __html: aboutMe.description }}
             dangerouslySetInnerHTML={{ __html: aboutMe?.description || "" }}
           ></p>
           <div>

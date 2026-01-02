@@ -52,16 +52,16 @@ const Contact = () => {
       <div className="app__contact-cards">
         <div className="app__contact-card">
           <img src={images.email} alt="email" />
-          <a href="mailto:praveendunga111@gmail.com" className="p-text">
-            praveendunga111@gmail.com
+          <a href="mailto:piyushgarg322230@gmail.com" className="p-text">
+            piyushgarg322230@gmail.com
           </a>
         </div>
-        <div className="app__contact-card">
+        {/* <div className="app__contact-card">
           <img src={images.mobile} alt="mobile" />
           <a href="tel: +91 9110709550" className="p-text">
             +91 9110709550
           </a>
-        </div>
+        </div> */}
       </div>
       {!isFormSubmitted ? (
         <div className="app__contact-form app__flex">
@@ -125,5 +125,6 @@ const Contact = () => {
 export default AppWrap(
   MotionWrap(Contact, "app__contact"),
   "contact",
-  "app__whitebg"
+  "app__primarybg"
+
 );

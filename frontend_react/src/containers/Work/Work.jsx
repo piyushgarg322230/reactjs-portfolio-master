@@ -43,7 +43,7 @@ const Work = () => {
       </h2>
 
       <div className="app__work-filter">
-        {["All", "ReactJS", "Web Projects", "Machine Learning", "Python"].map(
+        {["All", "Unity", "Cocos Creator", "Cocos2dx", "Web Project","Mobile App"].map(
           (item, index) => (
             <div
               key={index}
@@ -90,7 +90,7 @@ const Work = () => {
                   target="_blank"
                   rel="noreferrer"
                   className={`app__flex ${
-                    work.projectLink.toLowerCase() === "na" ? "none" : ""
+                    work.projectLink?.toLowerCase() === "na" ? "none" : ""
                   }`}
                 >
                   <motion.div
@@ -106,7 +106,9 @@ const Work = () => {
                   href={work.codeLink}
                   target="_blank"
                   rel="noreferrer"
-                  className="app__flex"
+                  className={`app__flex ${
+                    work.codeLink?.toLowerCase() === "na" ? "none" : ""
+                  }`}
                 >
                   <motion.div
                     whileInView={{ scale: [0, 1] }}

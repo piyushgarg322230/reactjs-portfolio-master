@@ -45,7 +45,7 @@ const headerSkillVariants = {
 
 const Header = () => {
   const { text: tagText } = useTypewriter({
-    words: ["Fullstack Developer", "ReactJS Developer", "MERN STACK"],
+    words: ["Game Developer",  "MERN STACK Developer"],
     typeSpeed: 100,
     loop: false,
   });
@@ -62,7 +62,7 @@ const Header = () => {
             <span>👋</span>
             <div style={{ marginLeft: 20 }}>
               <p className="p-text">Hello, I am</p>
-              <p className="head-text">Praveen</p>
+              <p className="head-text">Piyush</p>
             </div>
           </div>
           <div className="tag-cmp app__flex">
@@ -96,7 +96,7 @@ const Header = () => {
         whileInView={scaleVariants.whileInView}
         className="app__header-circles"
       >
-        {[images.javascript, images.react, images.node].map((circle, index) => (
+        {[ images.react, images.unity, images.node].map((circle, index) => (
           <motion.div
             variants={headerSkillVariants}
             whileInView="visible"
