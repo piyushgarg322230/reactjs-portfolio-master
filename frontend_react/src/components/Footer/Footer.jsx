@@ -1,7 +1,6 @@
 import React from "react";
 import { BsInstagram } from "react-icons/bs";
 import { GrLinkedinOption,GrGithub } from "react-icons/gr";
-import { FaFacebookF, FaGithubSquare } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 import "./Footer.scss";

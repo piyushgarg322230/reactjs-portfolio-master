@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Praveenterax/reactjs-portfolio">
+  <a href="https://github.com/piyushgarg322230/reactjs-portfolio-master">
     <img src="images/letter-P-circle.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -37,14 +37,14 @@
     <br />
     <a href="https://praveenterax-portfolio.netlify.app" target="_blank" rel="noreferrer"><strong>Portfolio Website</strong></a>
     <br />
-    <a href="https://github.com/Praveenterax/reactjs-portfolio"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/piyushgarg322230/reactjs-portfolio-master"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://praveenterax-portfolio.netlify.app" target="_blank" rel="noreferrer">View Demo</a>
     ·
-    <a href="https://github.com/Praveenterax/reactjs-portfolio/issues">Report Bug</a>
+    <a href="https://github.com/piyushgarg322230/reactjs-portfolio-master/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Praveenterax/reactjs-portfolio/issues">Request Feature</a>
+    <a href="https://github.com/piyushgarg322230/reactjs-portfolio-master/issues">Request Feature</a>
   </p>
 </div>
 
@@ -136,7 +136,7 @@ Getting started, to avoid hassle at a later part, go ahead and create an account
 1. After completing the prerequistes, go ahead with the following steps.
 2. Clone the repo
    ```sh
-   git clone https://github.com/Praveenterax/reactjs-portfolio.git
+   git clone https://github.com/piyushgarg322230/reactjs-portfolio-master.git
    ```
 3. Install NPM packages in the folders [Frontend React](/frontend_react).
    > Make sure you are in the right folder path in the terminal.
@@ -194,7 +194,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Praveen Dunga - [@Praveenterax](https://instagram.com/Praveenterax) - praveendunga789@gmail.com
+Piyush Garg - [@piyushgarg_01](https://www.instagram.com/piyushgarg_01/)
 
 Project Link: [https://praveenterax-portfolio.netlify.app](https://praveenterax-portfolio.netlify.app)
 
@@ -203,18 +203,18 @@ Project Link: [https://praveenterax-portfolio.netlify.app](https://praveenterax-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Praveenterax/reactjs-portfolio.svg?style=for-the-badge
-[contributors-url]: https://github.com/Praveenterax/reactjs-portfolio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Praveenterax/reactjs-portfolio.svg?style=for-the-badge
-[forks-url]: https://github.com/Praveenterax/reactjs-portfolio/network/members
-[stars-shield]: https://img.shields.io/github/stars/Praveenterax/reactjs-portfolio.svg?style=for-the-badge
-[stars-url]: https://github.com/Praveenterax/reactjs-portfolio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Praveenterax/reactjs-portfolio.svg?style=for-the-badge
-[issues-url]: https://github.com/Praveenterax/reactjs-portfolio/issues
-[license-shield]: https://img.shields.io/github/license/Praveenterax/reactjs-portfolio.svg?style=for-the-badge
-[license-url]: https://github.com/Praveenterax/reactjs-portfolio/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/piyushgarg322230/reactjs-portfolio-master.svg?style=for-the-badge
+[contributors-url]: https://github.com/piyushgarg322230/reactjs-portfolio-master/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/piyushgarg322230/reactjs-portfolio-master.svg?style=for-the-badge
+[forks-url]: https://github.com/piyushgarg322230/reactjs-portfolio-master/network/members
+[stars-shield]: https://img.shields.io/github/stars/piyushgarg322230/reactjs-portfolio-master.svg?style=for-the-badge
+[stars-url]: https://github.com/piyushgarg322230/reactjs-portfolio-master/stargazers
+[issues-shield]: https://img.shields.io/github/issues/piyushgarg322230/reactjs-portfolio-master.svg?style=for-the-badge
+[issues-url]: https://github.com/piyushgarg322230/reactjs-portfolio-master/issues
+[license-shield]: https://img.shields.io/github/license/piyushgarg322230/reactjs-portfolio-master.svg?style=for-the-badge
+[license-url]: https://github.com/piyushgarg322230/reactjs-portfolio-master/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/praveendunga
+[linkedin-url]: https://www.linkedin.com/in/piyush-garg-35066919a/
 [product-screenshot-1]: images/home-page.png
 [product-screenshot-2]: images/contact-page.png
 [product-screenshot-3]: images/skills-page.png
