@@ -200,8 +200,8 @@ Project Link: [https://piyushgarg.tech/](https://piyushgarg.tech/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!!-- MARKDOWN LINKS & IMAGES -->
-<!!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/piyushgarg322230/reactjs-portfolio-master.svg?style=for-the-badge
 [contributors-url]: https://github.com/piyushgarg322230/reactjs-portfolio-master/graphs/contributors
