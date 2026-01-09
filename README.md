@@ -35,12 +35,12 @@
   <p align="center">
     A well designed portfolio to showcase your skills and achievements. A beautiful and functional portfolio with smooth animations. Built using React JS, Sanity, Framer-motion.
     <br />
-    <a href="https://praveenterax-portfolio.netlify.app" target="_blank" rel="noreferrer"><strong>Portfolio Website</strong></a>
+    <a href="https://piyushgarg.tech/" target="_blank" rel="noreferrer"><strong>Portfolio Website</strong></a>
     <br />
     <a href="https://github.com/piyushgarg322230/reactjs-portfolio-master"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://praveenterax-portfolio.netlify.app" target="_blank" rel="noreferrer">View Demo</a>
+    <a href="https://piyushgarg.tech/" target="_blank" rel="noreferrer">View Demo</a>
     ·
     <a href="https://github.com/piyushgarg322230/reactjs-portfolio-master/issues">Report Bug</a>
     ·
@@ -78,9 +78,9 @@
 
 ## About The Project
 
-[![Home Page][product-screenshot-1]](https://praveenterax-portfolio.netlify.app)
-[![Skills Page][product-screenshot-2]](https://praveenterax-portfolio.netlify.app/#skills)
-[![Contact Page][product-screenshot-3]](https://praveenterax-portfolio.netlify.app/#contact)
+[![Home Page][product-screenshot-1]](https://piyushgarg.tech/)
+[![Skills Page][product-screenshot-2]](https://piyushgarg.tech/#skills)
+[![Contact Page][product-screenshot-3]](https://piyushgarg.tech/#contact)
 
 Website is completely built using the React JS and Sanity knowledge. No need to be proficient to understand or change the content, basic understanding is enough fill the gaps.
 
@@ -196,7 +196,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Piyush Garg - [@piyushgarg_01](https://www.instagram.com/piyushgarg_01/)
 
-Project Link: [https://praveenterax-portfolio.netlify.app](https://praveenterax-portfolio.netlify.app)
+Project Link: [https://piyushgarg.tech/](https://piyushgarg.tech/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
