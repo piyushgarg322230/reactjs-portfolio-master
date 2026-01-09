@@ -1,7 +1,7 @@
 import React from "react";
 import { BsInstagram } from "react-icons/bs";
-import { GrLinkedinOption } from "react-icons/gr";
-import { FaFacebookF } from "react-icons/fa";
+import { GrLinkedinOption,GrGithub } from "react-icons/gr";
+import { FaFacebookF, FaGithubSquare } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 import "./Footer.scss";
@@ -57,7 +57,7 @@ const Footer = () => {
           whileInView="view"
         >
           <a
-            href="https://www.linkedin.com/in/praveendunga"
+            href="https://www.linkedin.com/in/piyush-garg-35066919a/"
             target="_blank"
             rel="noreferrer"
             className="app__flex"
@@ -71,12 +71,12 @@ const Footer = () => {
           whileInView="view"
         >
           <a
-            href="https://www.facebook.com/praveenterax"
+            href="https://github.com/piyushgarg322230"
             target="_blank"
             rel="noreferrer"
             className="app__flex"
           >
-            <FaFacebookF />
+            <GrGithub />
           </a>
         </motion.div>
         <motion.div
@@ -85,7 +85,7 @@ const Footer = () => {
           whileInView="view"
         >
           <a
-            href="https://www.instagram.com/praveenterax"
+            href="https://www.instagram.com/piyushgarg_01/"
             target="_blank"
             rel="noreferrer"
             className="app__flex"

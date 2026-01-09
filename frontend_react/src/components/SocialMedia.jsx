@@ -1,6 +1,6 @@
 import React from "react";
 
-import { BsLinkedin, BsInstagram } from "react-icons/bs";
+import { BsLinkedin, BsGithub, BsInstagram } from "react-icons/bs";
 import { FaFacebookF } from "react-icons/fa";
 
 const SocialMedia = () => {
@@ -8,7 +8,7 @@ const SocialMedia = () => {
     <div className="app__social">
       <div>
         <a
-          href="https://www.linkedin.com/in/praveendunga"
+          href="https://www.linkedin.com/in/piyush-garg-35066919a/"
           target="_blank"
           rel="noreferrer"
           className="app__flex"
@@ -18,6 +18,26 @@ const SocialMedia = () => {
       </div>
       <div>
         <a
+          href="https://github.com/piyushgarg322230"
+          target="_blank"
+          rel="noreferrer"
+          className="app__flex"
+        >
+          <BsGithub />
+        </a>
+      </div>
+      <div>
+        <a
+          href="https://www.instagram.com/piyushgarg_01/"
+          target="_blank"
+          rel="noreferrer"
+          className="app__flex"
+        >
+          <BsInstagram />
+        </a>
+      </div>
+      {/* <div>
+        <a
           href="https://www.facebook.com/praveenterax"
           target="_blank"
           rel="noreferrer"
@@ -26,16 +46,7 @@ const SocialMedia = () => {
           <FaFacebookF />
         </a>
       </div>
-      <div>
-        <a
-          href="https://www.instagram.com/praveenterax"
-          target="_blank"
-          rel="noreferrer"
-          className="app__flex"
-        >
-          <BsInstagram />
-        </a>
-      </div>
+       */}
     </div>
   );
 };
